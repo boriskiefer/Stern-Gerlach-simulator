@@ -128,5 +128,3 @@ This repository demonstrates an AI-augmented solution architecture workflow:
 customer-first problem framing, gap identification, working POC delivery,
 and explicit hand-off documentation. Built using domain-expert
 human-in-the-loop guidance and verification with LLM assistance.
-
-*See also: [AI Datacenter Photonics — Tier 0](https://github.com/boriskiefer/ai-datacenter-tier0)*
